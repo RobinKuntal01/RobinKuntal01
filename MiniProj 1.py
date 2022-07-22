@@ -4,9 +4,6 @@
 # add book
 # return book
 
-# HarryLibrary = Library(listofbooks, library_name)
-
-
 # dictionary (books-nameofperson)
 
 # create a main function and run an infinite while loop asking
@@ -60,7 +57,7 @@ class Library:
 
 robin = Library(book_list= Library.book_list , library_name = 'robin_library' )
 
-
+# main code
 
 print('Welcome to Library')
 
