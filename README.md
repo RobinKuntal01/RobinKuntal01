@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobinKuntal01
-- 👀 I’m interested in data science and machine learning
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on data science projects 
 - 📫 How to reach me @robinsingh.kuntal@gmail.com
