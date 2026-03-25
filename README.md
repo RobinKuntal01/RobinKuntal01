@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RobinKuntal01
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on data science projects 
-- 📫 How to reach me @robinsingh.kuntal@gmail.com
+Interested in Backend Development and AI Integrartion.
+Building real-life tools and applications using FastAPI 
 
 <!---
 RobinKuntal01/RobinKuntal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
